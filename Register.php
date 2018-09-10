@@ -49,10 +49,10 @@ body{
 						<option value="2">What was your first pet's name?</option>
 						<option value="3">What was your first friend's name?</option>
 						<option value="4">What is your favourite colour?</option>
-				  </select><br></br></td></tr>
+				  </select></br></td></tr>
 
 				
-<tr><td>Answer:</td> <td><input type="text" name="answer" required="required" ><br></br></td></tr>
+<tr><td>Answer:</td> <td><input type="text" name="answer" required="required" ></br></td></tr>
 
 <tr>
 <td>
