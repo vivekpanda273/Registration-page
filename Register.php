@@ -13,7 +13,7 @@ body{
 <form method='post' action='register.php'>
   <table width='400' border='5' align='center'>
      <tr>
-     <td colspan='5' align='center'><h1><font color='white'>Registration Form</h1></td></font/>
+     <td colspan='5' align='center'><h1><font color='white'>Registration Form</h1></td></font>
      </tr>
 
  <tr>
@@ -52,7 +52,7 @@ body{
 				  </select></br></br></td></tr>
 
 				
-<tr><td>Answer:</td> <td><input type="text" name="answer" required="required" ></br></br></td></tr>
+<tr><td>Answer:</td> <td><input type="text" name="answer" required="required" ><br></br></td></tr>
 
 <tr>
 <td>
